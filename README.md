@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tristan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Dart
-- 🛠 I'm currently building a scheduling app... stay tuned!
+- 🌱 I’m currently learning...
+- 🛠 I'm currently building...
 - 📫 How to reach me -> tristan@larusic.com
 - 🍕 I love pizza!
 
